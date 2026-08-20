@@ -1,0 +1,16 @@
+{
+  "name": "astrolive-growthos-vercel",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AstroLive GrowthOS - Vercel + GitHub-backed prototype",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static frontend + Vercel Functions: no build step required'"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
