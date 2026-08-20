@@ -145,5 +145,5 @@ Production:
 Before submission:
 - GitHub repository: Public
 - Vercel URL: Public
-- PDF filename: `AstroLive_TeamName_LeaderName.pdf`
+- PDF filename: `AstroLive_pavan_pavan.pdf`
 - Test the deployed URL from an incognito browser.
