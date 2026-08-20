@@ -140,10 +140,3 @@ Production:
 - Do not store sensitive birth details in a public repository in production.
 - Use privacy controls for social sharing.
 
-## Submission
-
-Before submission:
-- GitHub repository: Public
-- Vercel URL: Public
-- PDF filename: `AstroLive_pavan_pavan.pdf`
-- Test the deployed URL from an incognito browser.
